@@ -1,0 +1,7 @@
+Xin chào, tôi là An.
+Tôi đang học CNTT.
+Tôi thích học về Git.
+Tôi muốn trở thành lập trình viên.
+Tôi thích làm việc nhóm.
+Sở thích: Đọc sách, code, chơi guitar.
+Kỹ năng: Git, Java, SQL.

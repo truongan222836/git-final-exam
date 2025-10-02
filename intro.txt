@@ -5,3 +5,9 @@ Tôi muốn trở thành lập trình viên.
 Tôi thích làm việc nhóm.
 Sở thích: Đọc sách, code, chơi guitar.
 Kỹ năng: Git, Java, SQL.
+Kế hoạch học tập:
+- Ôn lại Git 2 ngày
+- Học Java nâng cao 3 ngày
+- Thực hành SQL 2 ngày
+- Làm project nhỏ 2 ngày
+- Tổng kết lại kiến thức

@@ -1,0 +1,5 @@
+Tính năng mới: Ghi log hoạt động người dùng.
+Tính năng: Lưu lịch sử đăng nhập.
+Tính năng: Bảo mật bằng token.
+Tính năng: Quản lý session.
+Tính năng: Xuất báo cáo.

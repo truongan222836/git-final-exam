@@ -1,3 +1,5 @@
 - Git rất hữu ích.
 - Git giúp quản lý code dễ dàng.
 - Git hỗ trợ làm việc nhóm tốt.
+- Git có nhiều lệnh mạnh mẽ.
+- Cần luyện tập nhiều để giỏi.

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Xin chào, tôi là An
+=======
+Hello, this is An
+>>>>>>> 15a24d1 (Update intro.txt in main)
 Tôi đang học CNTT.
 Tôi thích học về Git.
 Tôi muốn trở thành lập trình viên.

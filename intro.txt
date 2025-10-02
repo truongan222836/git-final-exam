@@ -1,4 +1,4 @@
-Xin chào, tôi là An.
+Xin chào, tôi là An
 Tôi đang học CNTT.
 Tôi thích học về Git.
 Tôi muốn trở thành lập trình viên.
